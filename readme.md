@@ -8,3 +8,9 @@ Bem Vindo ao repositorio! Esté é um projeto de exemplo para demostrar o uso ba
 - Markdown
 
 # 📂 Estrutura do Projeto
+
+### Adicionando conteudo remotamente.
+
+----
+
+## Como trabalhar com o Git
